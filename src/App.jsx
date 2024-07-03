@@ -1,5 +1,5 @@
-
 import Counter from "./Counter";
+import Friends from "./Friends";
 import Players from "./Players";
 import Users from "./Users";
 
@@ -10,6 +10,7 @@ function App() {
       <Users></Users>
       <Counter></Counter>
       <Players></Players>
+      <Friends></Friends>
     </div>
   );
 }
